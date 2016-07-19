@@ -39,7 +39,7 @@ Giờ, chỉ cần chạy lệnh
 
 `php artisan serve`
 
-Bạn có thể truy cập vào ứng dụng bằng link [http://localhost:8000/](http://localhost:8000/)
+Bạn có thể truy cập vào ứng dụng bằng link [http://localhost:8000/users/](http://localhost:8000/users/)
 
 
 ## Thông tin khác
