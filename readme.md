@@ -1,4 +1,5 @@
 # User Manager
+Đọc, ghi, sửa, xoá user
 ## Hướng dẫn sử dụng
 Hãy chắc chắn là bạn đã cài Git, Composer, Database trên máy
 ### Cài đặt
@@ -21,3 +22,6 @@ Thêm bảng và dữ liệu giả vào database bằng lệnh
 Giờ, chỉ cần chạy lệnh
 `php artisan serve`
 Bạn có thể truy cập vào ứng dụng bằng link http://localhost:8000/
+## Thông tin khác
+ứng dụng được build trên Laravel framework, cho phép migrate, seed, validation
+Sử dụng Bootstrap framework
