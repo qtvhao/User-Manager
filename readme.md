@@ -21,7 +21,8 @@ Thêm bảng và dữ liệu giả vào database bằng lệnh
 `php artisan migrate --seed`
 Giờ, chỉ cần chạy lệnh
 `php artisan serve`
-Bạn có thể truy cập vào ứng dụng bằng link http://localhost:8000/
+Bạn có thể truy cập vào ứng dụng bằng link [http://localhost:8000/](http://localhost:8000/)
 ## Thông tin khác
 ứng dụng được build trên Laravel framework, cho phép migrate, seed, validation
 Sử dụng Bootstrap framework
+## [Video demo](https://www.youtube.com/watch?v=ROGngOEj_6E)
