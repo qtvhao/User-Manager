@@ -2,7 +2,7 @@
 Đọc, ghi, sửa, xoá user
 ## Hướng dẫn sử dụng
 Hãy chắc chắn là bạn đã cài Git, Composer, Database trên máy
-### Cài đặt
+### 1. Cài đặt
 Đầu tiên dùng lệnh sau để clone repo này về máy:
 
 `git clone https://github.com/qtvhao/user-manager.git user_manager`
@@ -15,7 +15,7 @@ Chạy lệnh sau để composer cài đặt các dependencies
 
 `composer install`
 
-### Cấu hình
+### 2. Cấu hình
 
 Tạo một tệp .env
 
@@ -27,7 +27,7 @@ Tạo APP_KEY trong .env
 
 Bây giờ hãy điền đúng thông tin kết nối Database vào file .env nhé
 
-### Chạy
+### 3. Chạy
 
 Cài đặt vào cấu hình đã xong
 
